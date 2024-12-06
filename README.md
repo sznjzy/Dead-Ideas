@@ -51,7 +51,7 @@ contributed by [your github name](your github link)
 2. All files should be formatted in the following manner 
 
 ```md
-# Project name
+# <Project title>
 
 description on what the project is
 
@@ -63,7 +63,7 @@ a list of all features added in the project along with optional explanation text
 
 convince the people why they should give your project a try
 
-## Why you chose to build this project?
+## Why we built this?
 
 talk about what got you to building this project in the first place
 
