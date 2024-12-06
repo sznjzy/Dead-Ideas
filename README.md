@@ -38,36 +38,63 @@ talk about
     - good to have features
     note: try to be vague so as to leave room for interpretation
 
-contributed by [you github name](your github link)
+contributed by [your github name](your github link)
 ```
-3. Once the file is created, open a PR titled `Idea: <your idea>`
+3. Once the file is created, open a PR titled `Idea submission: <idea title>`
 4. In the PR description paste the contents of your `<idea>.md` file
+
+[example idea](https://github.com/Builders-Hut/Dead-Ideas/blob/main/ideas/codeswipe.md)
 
 ## How to work on an idea
 
-1. Make an issue, make sure it follows the following template
-    - Title -> `Idea submission: <the idea title you are working on>`
-    - Description ->
-        - The title to your project (it doesn't have to be the same as the one given in the idea document)
-        - A very small description on what you implemented 
-        - Link the idea that you would be working on 
-        - Link your GitHub id along with the ids of the people working on it
+1. Create a markdown file titled `<project name>.md` inside the folder `implementations/`
+2. All files should be formatted in the following manner 
 
-    - note: multiple people (different teams/individuals) can choose to pick the same idea to implement
+```md
+# Project name
 
-2. Create a PR with the same title as your issue with all your code inside `implementations/`
-3. Inside the PR mention
-    - The linked issue that you opened 
-    - What all new things you added
-    - Deployment instructions (how to run it for testing)
-    - Link the idea that you would be working on 
-    - Link your GitHub id along with the ids of the people working on it
-4. You are free to give the idea a better name, just make sure the folder is named the same as what you are going with
+description on what the project is
 
-note: not all submitted ideas can be merged with the main branch, but just because your submission wasn't merged doesn't mean that it is bad
+## Features
 
-**please make sure all projects include a dedicated MIT License**
+a list of all features added in the project along with optional explanation text
+
+## Why use this?
+
+convince the people why they should give your project a try
+
+## Why you chose to build this project?
+
+talk about what got you to building this project in the first place
+
+## Deployment instructions
+
+instructions on how to get your project running 
+
+optional: live link
+
+## Extra information 
+
+anything extra that you want to talk about
+
+contributed by
+- [your github name](your github link)
+- [your github name](your github link)
+- [your github name](your github link)
+
+**[check us out on github](link to the github repo housing the project)**
+```
+
+3. Once the file is created, open a PR titled `Project submission: <project title>`
+4. In the PR description paste the contents of your `<project title>.md` file
+
+**note:** 
+    - you are free to give the project linked to an idea a better name
+    - multiple people (different teams/individuals) can choose to pick the same idea to implement
+    - not all submitted projects can be merged with the main branch, but just because your submission was not merged does not mean that it is bad
 
 ## Important
 
 All ideas and projects shared here are licensed under the MIT License, allowing anyone to freely pick and work on them. The author holds no liability for any misuse.
+
+**please make sure all projects being submitted include a dedicated MIT License**
