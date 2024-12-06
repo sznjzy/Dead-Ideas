@@ -40,5 +40,31 @@ talk about
 
 contributed by [you github name](your github link)
 ```
-3. Once the file is created, open a PR labeled `Idea: <your idea>`
+3. Once the file is created, open a PR titled `Idea: <your idea>`
 4. In the PR description paste the contents of your `<idea>.md` file
+
+## How to work on an idea
+
+1. Make an issue, make sure it follows the following template
+    - Title -> `Idea submission: <the idea title you are working on>`
+    - Description ->
+        - The title to your project (it doesn't have to be the same as the one given in the idea document)
+        - A very small description on what you implemented 
+        - Link the idea that you would be working on 
+        - Link your GitHub id along with the ids of the people working on it
+note: multiple people (different teams/individuals) can choose to pick the same idea to implement
+
+2. Create a PR with the same title as your issue with all your code inside `implementations/`
+3. Inside the PR mention
+    - The linked issue that you opened 
+    - What all new things you added
+    - Deployment instructions (how to run it for testing)
+    - Link the idea that you would be working on 
+    - Link your GitHub id along with the ids of the people working on it
+4. You are free to give the idea a better name, just make sure the folder is named the same as what you are going with
+
+note: not all submitted ideas can be merged with the main branch, but just because your submission wasn't merged doesn't mean that it is bad
+
+## Important
+
+All ideas shared here are licensed under the MIT License, allowing anyone to freely pick and work on them. The author holds no liability for any misuse.
