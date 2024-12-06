@@ -52,7 +52,8 @@ contributed by [you github name](your github link)
         - A very small description on what you implemented 
         - Link the idea that you would be working on 
         - Link your GitHub id along with the ids of the people working on it
-note: multiple people (different teams/individuals) can choose to pick the same idea to implement
+
+    - note: multiple people (different teams/individuals) can choose to pick the same idea to implement
 
 2. Create a PR with the same title as your issue with all your code inside `implementations/`
 3. Inside the PR mention
@@ -65,6 +66,8 @@ note: multiple people (different teams/individuals) can choose to pick the same 
 
 note: not all submitted ideas can be merged with the main branch, but just because your submission wasn't merged doesn't mean that it is bad
 
+**please make sure all projects include a dedicated MIT License**
+
 ## Important
 
-All ideas shared here are licensed under the MIT License, allowing anyone to freely pick and work on them. The author holds no liability for any misuse.
+All ideas and projects shared here are licensed under the MIT License, allowing anyone to freely pick and work on them. The author holds no liability for any misuse.
