@@ -89,9 +89,9 @@ contributed by
 4. In the PR description paste the contents of your `<project title>.md` file
 
 **note:** 
-    - you are free to give the project linked to an idea a better name
-    - multiple people (different teams/individuals) can choose to pick the same idea to implement
-    - not all submitted projects can be merged with the main branch, but just because your submission was not merged does not mean that it is bad
+- you are free to give the project linked to an idea a better name
+- multiple people (different teams/individuals) can choose to pick the same idea to implement
+- not all submitted projects can be merged with the main branch, but just because your submission was not merged does not mean that it is bad
 
 ## Important
 
