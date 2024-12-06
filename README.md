@@ -31,12 +31,14 @@ talk about
     - the challenges you faced while implementing the idea
     note: try to be vague so as to leave room for interpretation
 
-## Things you would like to see implemented
+## Good to have features
 
 talk about 
     - the things that you would like to see implemented
     - good to have features
     note: try to be vague so as to leave room for interpretation
+
+contributed by [you github name](your github link)
 ```
 3. Once the file is created, open a PR labeled `Idea: <your idea>`
 4. In the PR description paste the contents of your `<idea>.md` file
