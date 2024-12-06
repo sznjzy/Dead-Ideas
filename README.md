@@ -2,7 +2,7 @@
 
 Ideas that were halfway implemented but never ended up seeing through completion put here for others to pick and work on
 
-## How to contribute
+## How to contribute an idea
 
 1. Create a markdown file titled `<idea>.md` inside the folder `ideas/`
 2. All files should be formatted in the following manner 
