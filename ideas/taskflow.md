@@ -25,3 +25,6 @@ then sum it up, the highest would get matched for the user’s job requirement)
 - You can gamify the entire thing, being a decentralized platform you can add a certain game that while played by the user/freelancer get paid game coins which can be used to access certain features, we can promote maybe advertisements inside the game for extra revenue..
 - You can try adding like a forum kinda thing inside the decentralized platform for the users to interact with the freelancer.. (This would again kinda neglect the whole part of the platform being Decentralized, so if you are implementing this try to add some unique feature along)
 
+  
+Contributed by [Bharghav Srinivasan](https://github.com/BharZInstein)
+
