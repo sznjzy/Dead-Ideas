@@ -1,4 +1,4 @@
-# KidSyntax
+# TeenSyntax
 
 A modern education platform to learn coding in an engaging way (for young kids/teenagers getting into coding).
 
@@ -9,7 +9,7 @@ Platforms such as these, that are effective and aimed at the younger generation 
 invested in coding at a young age, which will lead them to become good programmers as they grow up.
 
 # How
-The main objective should be to make the platform engaging for kids.
+The main objective should be to make the platform engaging for teens.
 
 - A brief and simple, ***interactive*** introduction to programming using animations and suitable audio.
 - Provide a curriculum on QBasic for complete beginners and Python for those who already have a basic idea of programming.
