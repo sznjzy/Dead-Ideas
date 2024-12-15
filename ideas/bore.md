@@ -22,6 +22,16 @@ With the previously stated problem, I will simply search for "Class 10 marksheet
 
 The key is making it as magical as possible. No folders, hierarchy, permission management, inheritence. Since it's a blob store, the files wouldn't just be "documents" per se, they could be movies, photos or any general large binary files.
 
+### Useful References
+
+Several existing popular tools like
+
+1. [fzf](https://github.com/junegunn/fzf)
+2. [Spotlight for Mac](https://support.apple.com/en-in/guide/mac-help/mchlp1008/mac)
+3. [PowerToys Run](https://learn.microsoft.com/en-us/windows/powertoys/run)
+
+Provide search for filesystems in the host. However, they rely heavily on the file contents and names for indexing. Bore will feature tags, and descriptions to make it more search friendly.
+
 ## Challenges Faced
 
 Implementing a search experience that "just works". Creating a search algorithm from scratch is quite difficult, so using third party solutions is also permitted. However, fine-tuning them for specific use cases is difficult.
