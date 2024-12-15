@@ -10,7 +10,7 @@ When you require your 10th marksheet quickly, where do you find it, `~/Documents
 Sure, you can blame yourself for being lazy, but this is far too common to be your fault alone. Why can't we have a non-linear storage medium that doesn't require you to create a tree-like folder system to keep the files.
 I soon started having a large "Dumpyard" folder and relied heavily on search to find out important documents. As it turns out, searching the file system isn't the smoothest experience.
 
-Bore is a blob store where you simply dump your file, add labels, an optional description to make it easier to search, and whatever give it whatever long name you wish.
+Bore is a blob store where you simply dump your file, add labels, an optional description to make it easier to search, and whatever long name you wish.
 
 ## How 
 
