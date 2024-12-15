@@ -21,7 +21,9 @@ But that's a plus point if you ask me as this does not seem too out of bounds an
 ## How 
 
 Have two modes:
+
     a. Real-Time Audio Capture Mode 
+    
     b. File Audio Capture Mode 
 
 **Real-Time Audio Capture Mode**:
@@ -45,6 +47,14 @@ b. Performing FFT:
 Getting the audio samples is probably the hardest part.
 
 Everything after that has either already been implemented or just need to tweak a few things to get it to work with RTAC
+
+c. Displaying the visualization:
+
+This is done using raylib library in C which makes it look pretty cool and dynamic with a lot of freedom of GUI dev
+
+**File Audio Capture Mode**:
+
+This part has already been implemented in rAVen which is up for reference.
 
 ## Challenges Faced
 
