@@ -22,13 +22,13 @@ But that's a plus point if you ask me as this does not seem too out of bounds an
 
 Have two modes:
 
-    a. Real-Time Audio Capture Mode 
+1. Real-Time Audio Capture Mode 
     
-    b. File Audio Capture Mode 
+2. File Audio Capture Mode 
 
-**Real-Time Audio Capture Mode**:
-
-a. Capturing Real-Time Audio: 
+1. **Real-Time Audio Capture Mode**:
+```
+a. Capturing Real-Time Audio:
 
 This mode would require us to become clients with audio servers like:
 
@@ -51,10 +51,12 @@ Everything after that has either already been implemented or just need to tweak 
 c. Displaying the visualization:
 
 This is done using raylib library in C which makes it look pretty cool and dynamic with a lot of freedom of GUI dev
+```
 
-**File Audio Capture Mode**:
-
+2. **File Audio Capture Mode**:
+```
 This part has already been implemented in rAVen which is up for reference.
+```
 
 ## Challenges Faced
 
