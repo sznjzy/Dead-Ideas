@@ -4,32 +4,31 @@ Time Vault is kind of a immutable statement ledger which stores statement of use
 
 ## Why
 
-IDK but it sounds very stupid simply a smart contract on self hosted blockchain.
+A Smart Contract on a Self-Hosted Blockchain
 
-Don't really know the actual use but what if someone wants to prove that they said a particular statement before doing something.
+Imagine someone wants to prove they made a statement before taking a specific action.
 
-"Something" here can be anything like for example :
-- Listing a stolen product on marketplace
-- Taking some serious actions (yk college students or employees).
+The “action” here could be anything, such as:
 
-So here suppose i give a statment about listing a stolen product on marketplace to find the real owner and give him the product for free. so when the real owner finds me i can show this as a proof of that timestamp that i am supposed to do that not really sell the product.
+Listing a stolen product on a marketplace
+Taking a serious step in a personal or professional context (e.g., college students or employees making critical decisions).
+For instance, suppose I make a statement about listing a stolen product on a marketplace with the intention of finding the rightful owner and returning it for free. When the real owner contacts me, I can use this timestamped statement as proof of my original intent—to return the product, not to sell it.
 
-This was very basic case but this might expand for serious cases. A time note can act as a solid proof in absence of an individual.
+While this is a basic example, such a concept can be applied to more serious cases. A timestamped note can act as solid proof in situations where an individual is unavailable or their motives are questioned.
 
-Soical media does the same work it can act as proof but as its privately owned i have no trust in them as they can take anything out of existence within few hours.
+Social media can sometimes serve this purpose, but it lacks reliability. Since social platforms are privately owned, they can erase or alter content at any time, potentially within hours, making them untrustworthy for critical proof.
 
 ## How 
 
 Best way to gain trust is using blockchain as its publicly available.
 
-We can host our own public records of proof of statments using peer2peer connections almost similar to as blockchain and can also use something like IPFS to store files.
-
+We can host our own public records to serve as proof of statements. This can be achieved using peer-to-peer connections, similar to blockchain architecture. Additionally, tools like IPFS (InterPlanetary File System) can be used to securely store associated files, ensuring both transparency and permanence.
 
 ## Challenges Faced
 
-The biggest problem in this is to prove weather the person is legit or not but its already solved by the help of public and private keys.
+The biggest challenge in this system is verifying whether the person is legitimate. However, this issue is already resolved through the use of public and private keys, which ensure authenticity and ownership.
 
-The 2nd problem is the trust & i think it will not be that hard with a public records of proof of statments.
+The 2nd challenge is establishing trust, but I believe this can be effectively addressed by maintaining public records of proof of statements. With transparency and immutability, trust becomes less of a hurdle.
 
 ## Good to have features
 - A place to upload statments as a file.
