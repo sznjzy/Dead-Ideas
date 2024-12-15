@@ -20,11 +20,7 @@ But that's a plus point if you ask me as this does not seem too out of bounds an
 
 ## How 
 
-Have two modes:
-
-1. Real-Time Audio Capture Mode 
-    
-2. File Audio Capture Mode 
+rAVen's implementation of the two modes should ideally look like the following:
 
 1. **Real-Time Audio Capture Mode**:
 ```
