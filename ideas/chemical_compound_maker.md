@@ -1,4 +1,4 @@
-# Codeswipe
+# Chemical Compound Maker
 
 A database/visualization engine for chemical compounds, mapping steps, reactions, procedures and everything that organic chemistry as a whole lacks.
 
