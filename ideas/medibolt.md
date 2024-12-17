@@ -13,9 +13,9 @@ Medibolt is an open-source platform that provides a comprehensive solution for m
 
 # How
 
-- Medibolt just aims to be a quick simple user friendly way of viewing the medical establishment making hospital visits quicker saving you all the tedious registration and appointment booking.And for that the given application must have great user experience and a proper backend which ensures that the platform is able to scale further in the future.
+- Medibolt just aims to be a quick simple user friendly way of viewing the medical establishment making hospital visits quicker saving you all the tedious registration and appointment bookings.And for that the given application must have great user experience and a proper backend which ensures that the platform is able to scale further in the future.
 
-# Features:
+# Features
 
 - **Medical Record Management**: Medibolt allows you to upload and store all your medical records, including test results, prescriptions, and medical history. You can easily search and retrieve your records whenever needed.
 
