@@ -24,7 +24,7 @@ Medibolt is an open-source platform that provides a comprehensive solution for m
 - **Reminders and Notifications**: Medibolt sends reminders and notifications for upcoming appointments, ensuring that you stay informed and prepared for your medical visits. 
 
 
--**Doctors Dashboard**: Medibolt allows doctors to vie and their daily appointments allowing them to select the appointments for the day and see the patients medicals history along with their prescriptions.
+- **Doctors Dashboard**: Medibolt allows doctors to vie and their daily appointments allowing them to select the appointments for the day and see the patients medicals history along with their prescriptions.
 
 
 # Challenges faced
